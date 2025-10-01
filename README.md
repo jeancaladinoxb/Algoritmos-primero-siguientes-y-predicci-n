@@ -19,6 +19,8 @@ Para esta explicación se mostrará a través de terminal MacOs
 5. Acceder a las carpetas creadas por usuario
 6. Se escribira el comando "Python3  CalculoPrediccion.py" "Python3 CalculoPrimeros.py" "Python3 CalculoSegundos.py"
 7. Por salida de terminal se debería observar lo siguiente:
+
+
    <img width="445" height="152" alt="image" src="https://github.com/user-attachments/assets/1ad9f5b5-c06d-4ead-9e39-fd0a146bd59d" />
    <img width="626" height="135" alt="image" src="https://github.com/user-attachments/assets/3ede19db-6bf7-4989-8676-cd711272fb8b" />
    <img width="553" height="163" alt="image" src="https://github.com/user-attachments/assets/ba824801-fb1e-4fe0-b04d-cc302542efe6" />
